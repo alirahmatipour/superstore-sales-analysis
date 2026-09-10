@@ -17,5 +17,5 @@ Questions Answered:
 
 Tools Used:
 
-    Python، Pandas، Matplotlib, Seaborn
+    Python، Pandas، Matplotlib، Seaborn
     
